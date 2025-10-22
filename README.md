@@ -24,3 +24,9 @@ A backend API built with **Node.js**, **Express**, and **MongoDB**, allowing use
 - Joi  
 - Nodemailer  
 - dotenv
+
+## 🧪 API Documentation
+
+You can test all endpoints using the Postman collection below:
+
+👉 [View on Postman](https://documenter.getpostman.com/view/34513809/2sB3QRoT9r)
