@@ -26,7 +26,4 @@ A backend API built with **Node.js**, **Express**, and **MongoDB**, allowing use
 
 ---
 
-👩‍💻 Developed by Sohir Ahmed
 
-   ```bash
-   git clone https://github.com/yourusername/sara7aApp.git
