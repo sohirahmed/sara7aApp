@@ -1,4 +1,5 @@
-# sara7aApp
+# 💬 Sara7aApp
+
 A backend API built with **Node.js**, **Express**, and **MongoDB**, allowing users to send and receive **anonymous messages** securely — inspired by the “Sarahah” concept.
 
 ---
@@ -23,7 +24,3 @@ A backend API built with **Node.js**, **Express**, and **MongoDB**, allowing use
 - Joi  
 - Nodemailer  
 - dotenv
-
----
-
-
